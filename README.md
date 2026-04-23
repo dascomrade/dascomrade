@@ -1,11 +1,6 @@
 # Hi there 👋
 ### I'm living in Canada and im relatively familiar with Python, C, and SQL, I dualboot ParrotOS and Windows 11
-System:
-  \n Motherboard Chipset: B650
-  \n CPU: Ryzen 5 7600X
-  \n GPU: RX 7800XT
-  \n Parrot SSD: 2TB PCIE Gen4 SSD (Western Digital)
-  \n Windows SSD: 1TB PCIE Gen3 SSD (Crucial)
+
 <!--
 **dascomrade/dascomrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

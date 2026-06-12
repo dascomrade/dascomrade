@@ -1,5 +1,5 @@
 # Hi there 👋
-### I'm living in Canada and im relatively familiar with Python, and C, I dualboot CachyOS and Windows 11
+### I'm living in Canada and im relatively familiar with Python, and C, I run Arch
 
 <!--
 **dascomrade/dascomrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
